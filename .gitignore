@@ -1,0 +1,8 @@
+build/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.class
